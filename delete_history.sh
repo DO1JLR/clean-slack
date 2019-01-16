@@ -14,4 +14,5 @@ slack-cleaner --token $token --message --channel security --user "l3d" --before 
 slack-cleaner --token $token --message --channel siebdruck --user "l3d" --before $timee --rate=5 --perform
 slack-cleaner --token $token --message --channel streaming --user "l3d" --before $timee --rate=5 --perform
 slack-cleaner --token $token --message --channel cabal --user "l3d" --before $tim3 --rate=5 --perform
+slack-cleaner --token $token --message --channel marktplatz --user "l3d" --before $tim3 --rate=5 --perform
 
