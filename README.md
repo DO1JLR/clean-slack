@@ -23,4 +23,3 @@ Add cronjob e.g.:
 @daily cd /path/to/git; ./delete_history.sh | mail -s "SLACK CLEANUP $(date)" root@example.com
 ``` 
 
-
