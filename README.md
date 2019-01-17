@@ -1,8 +1,18 @@
  SLACK CLEANER
 ----------------
 
-Behandle SLACK wie IRC... 
-Also lösche nachrichten nach x zeit...
+Die [Toolbox Bodensee e.V.](https://toolbox-bodensee.de) nutzt als einziges kommunikationsmittel den SLACK.
+Das macht als Sportverein oder so auch echt sinn, weil es nunmal relativ einfach zu verwenden ist und außer viel RAM
+in den Browser zu stecken um das JavaScript auszuführen muss man auch nichts machen um eine
+halbwegs gute Chat Erfahrung zu haben.
+
+Doch leider ist Slack nun mal weder Open Source, noch zum selber hosten oder von einem deutschen Unternehmen.
+
+
+Und da die mehrheit dann auch noch es für eine geile Idee hält, die Nachrichten bis in die Ewigkeit aufzuheben muss dieses Script hier einmal die woche sauber machen!
+
+**DELETE ALL MY MESSAGES**
+
 
  Installation:
 --------------
